@@ -103,9 +103,9 @@ Based in Turkey
 <h2 align="center"><img src="assets/icons/stats.svg" width="22" align="absmiddle" alt="" /> GitHub Stats</h2>
 
 <div align="center">
-  <img width="495" src="https://streak-stats.demolab.com?user=zodi4ctvn&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img width="495" src="https://streak-stats.demolab.com?user=zodi4ctvn&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Streak" />
   <br/>
-  <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodi4ctvn&layout=compact&theme=tokyonight&hide_border=true&card_width=495" alt="Top Languages" />
+  <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodi4ctvn&layout=compact&theme=tokyonight&hide_border=true&card_width=495&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <br/>
@@ -121,7 +121,7 @@ Based in Turkey
 
 <div align="center">
   <a href="https://github.com/zodi4ctvn/coc-bb-autoattack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zodi4ctvn&repo=coc-bb-autoattack&theme=tokyonight&hide_border=true" alt="coc-bb-autoattack" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zodi4ctvn&repo=coc-bb-autoattack&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="coc-bb-autoattack" />
   </a>
 
   <br/><br/>
