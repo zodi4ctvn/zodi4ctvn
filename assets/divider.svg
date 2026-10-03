@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
+    <rect x="0" y="11" width="1000" height="1.5" fill="url(#fade)"/>
+    <!-- Center diamonds -->
+    <rect x="496" y="8" width="8" height="8" fill="#58A6FF" transform="rotate(45 500 12)"/>
+    <rect x="466" y="10" width="4" height="4" fill="#58A6FF" opacity="0.6" transform="rotate(45 468 12)"/>
+    <rect x="530" y="10" width="4" height="4" fill="#58A6FF" opacity="0.6" transform="rotate(45 532 12)"/>
+    <!-- Shimmer -->
+    <circle cy="11.75" r="2.5" fill="#cfe3ff">
+      <animate attributeName="cx" values="100;900;100" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
