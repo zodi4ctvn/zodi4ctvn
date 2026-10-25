@@ -125,6 +125,12 @@ Based in Turkey
   </a>
 
   <br/><br/>
+
+  <a href="https://github.com/zodi4ctvn/zodi4c-storage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zodi4ctvn&repo=zodi4c-storage&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="zodi4c-storage" />
+  </a>
+
+  <br/><br/>
   <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
