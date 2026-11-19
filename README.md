@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Python+%26+Lua+Developer;Discord+Bots+%26+Moderation+Tools;FiveM+Frameworks+%26+Systems;Automation+%26+Custom+Bots;Building+things+that+run+24%2F7" alt="Typing SVG" />
 </a>
 
-<p>Crafting performant scripts, Discord bots, game automations, and clean system logic.</p>
+<p>
+  <a href="#-english">🇬🇧 English</a> &middot; <a href="#-türkçe">🇹🇷 Türkçe</a>
+</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=zodi4ctvn&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -18,15 +20,19 @@
 
 </div>
 
-<h2 align="center"><img src="assets/icons/about.svg" width="22" align="absmiddle" alt="" /> About Me</h2>
+## 🇬🇧 English
+
+<h3 align="center"><img src="assets/icons/about.svg" width="22" align="absmiddle" alt="" /> About Me</h3>
 
 <div align="center">
+
+Crafting performant scripts, Discord bots, game automations, and clean system logic.
 
 **Discord Bots** &middot; slash commands, moderation, ticket and utility systems
 
 **FiveM** &middot; frameworks, game systems and automations
 
-**Backend** &middot; advanced architecture and systems programming
+**Backend & Tools** &middot; desktop utilities, web apps and systems programming
 
 Ask me about: `Python` &middot; `Lua` &middot; `FiveM` &middot; `Discord Bots` &middot; `Bot Automation`
 
@@ -36,21 +42,21 @@ Based in Turkey
 
 </div>
 
-<h2 align="center"><img src="assets/icons/status.svg" width="22" align="absmiddle" alt="" /> Live Status</h2>
+<h3 align="center"><img src="assets/icons/status.svg" width="22" align="absmiddle" alt="" /> Live Status</h3>
 
 <div align="center">
-  <a href="https://discord.com/users/1350881372104949903">
-    <img width="49%" src="https://lanyard.cnrad.dev/api/1350881372104949903?theme=dark&bg=0d1117&borderRadius=12&idleMessage=Probably%20coding" alt="Discord status" />
-  </a>
   <a href="https://discord.com/users/1403455771563528252">
-    <img width="49%" src="https://lanyard.cnrad.dev/api/1403455771563528252?theme=dark&bg=0d1117&borderRadius=12&idleMessage=Probably%20coding" alt="Discord status (2nd account)" />
+    <img width="49%" src="https://lanyard.cnrad.dev/api/1403455771563528252?theme=dark&bg=0d1117&borderRadius=12&idleMessage=Probably%20coding" alt="Discord Primary Status" />
+  </a>
+  <a href="https://discord.com/users/1350881372104949903">
+    <img width="49%" src="https://lanyard.cnrad.dev/api/1350881372104949903?theme=dark&bg=0d1117&borderRadius=12&idleMessage=Probably%20coding" alt="Discord Backup Status" />
   </a>
 
   <br/>
   <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
-<h2 align="center"><img src="assets/icons/tools.svg" width="22" align="absmiddle" alt="" /> Tech Stack</h2>
+<h3 align="center"><img src="assets/icons/tools.svg" width="22" align="absmiddle" alt="" /> Tech Stack</h3>
 
 <div align="center">
 
@@ -78,7 +84,7 @@ Based in Turkey
 
 </div>
 
-<h3 align="center"><img src="assets/icons/frameworks.svg" width="20" align="absmiddle" alt="" /> Frameworks &amp; Platforms</h3>
+<h4 align="center"><img src="assets/icons/frameworks.svg" width="20" align="absmiddle" alt="" /> Frameworks &amp; Platforms</h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/discord.py-161b22?style=flat-square&logo=discord&logoColor=58A6FF" alt="discord.py" />
@@ -87,7 +93,7 @@ Based in Turkey
   <img src="https://img.shields.io/badge/Qbox-161b22?style=flat-square&logoColor=58A6FF" alt="Qbox" />
 </div>
 
-<h3 align="center"><img src="assets/icons/ai.svg" width="20" align="absmiddle" alt="" /> AI Tools</h3>
+<h4 align="center"><img src="assets/icons/ai.svg" width="20" align="absmiddle" alt="" /> AI Tools</h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Gemini-161b22?style=flat-square&logo=googlegemini&logoColor=58A6FF" alt="Gemini" />
@@ -100,7 +106,7 @@ Based in Turkey
   <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
-<h2 align="center"><img src="assets/icons/stats.svg" width="22" align="absmiddle" alt="" /> GitHub Stats</h2>
+<h3 align="center"><img src="assets/icons/stats.svg" width="22" align="absmiddle" alt="" /> GitHub Stats</h3>
 
 <div align="center">
   <img width="495" src="https://streak-stats.demolab.com?user=zodi4ctvn&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Streak" />
@@ -111,34 +117,182 @@ Based in Turkey
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/zodi4ctvn/zodi4ctvn/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zodi4ctvn/zodi4ctvn/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zodi4ctvn/zodi4ctvn/output/github-snake.svg" />
+    <img width="90%" src="https://raw.githubusercontent.com/zodi4ctvn/zodi4ctvn/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
+  </picture>
 
   <br/><br/>
   <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
-<h2 align="center"><img src="assets/icons/projects.svg" width="22" align="absmiddle" alt="" /> Featured Projects</h2>
+<h3 align="center"><img src="assets/icons/projects.svg" width="22" align="absmiddle" alt="" /> Featured Projects</h3>
 
 <div align="center">
-  <a href="https://github.com/zodi4ctvn/coc-bb-autoattack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zodi4ctvn&repo=coc-bb-autoattack&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="coc-bb-autoattack" />
+
+| Project | Stack | Description |
+| :--- | :---: | :--- |
+| [**coc-bb-autoattack**](https://github.com/zodi4ctvn/coc-bb-autoattack) (`Clash Titan 2.0`) | `Python` | Automated Clash of Clans Builder Base attack bot with vision & smart routines. |
+| [**discord-dm-cleaner**](https://github.com/zodi4ctvn/discord-dm-cleaner) | `Python` | Fast utility for cleaning up direct message history on Discord. |
+| [**discord-server-leaver**](https://github.com/zodi4ctvn/discord-server-leaver) | `Python` | Bulk Discord server leaver tool with filtering and safety controls. |
+| [**TikZave**](https://github.com/zodi4ctvn/TikZave) | `Python` | Clean TikTok video downloader and media saver utility. |
+| [**Z4Vibrance**](https://github.com/zodi4ctvn/Z4Vibrance) | `Python` / `WinAPI` | Lightweight digital vibrance & display color booster for gaming. |
+| [**zodi4c-storage**](https://github.com/zodi4ctvn/zodi4c-storage) | `Lua` / `FiveM` | FiveM storage and server-side system infrastructure. |
+| [**zodi4ctvn.github.io**](https://zodi4ctvn.github.io) ([Repo](https://github.com/zodi4ctvn/zodi4ctvn.github.io)) | `HTML` `CSS` `JS` | Personal portfolio website with Lanyard Discord presence, DNA canvas & interactive terminal. |
+
+<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+<h3 align="center"><img src="assets/icons/connect.svg" width="22" align="absmiddle" alt="" /> Connect With Me</h3>
+
+<div align="center">
+  <a href="https://zodi4ctvn.github.io"><img src="https://img.shields.io/badge/Website-zodi4ctvn.github.io-161b22?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Website" /></a>
+  <a href="https://discord.com/users/1403455771563528252"><img src="https://img.shields.io/badge/Discord-Primary-161b22?style=flat-square&logo=discord&logoColor=58A6FF" alt="Discord Primary" /></a>
+  <a href="https://discord.com/users/1350881372104949903"><img src="https://img.shields.io/badge/Discord-Backup-161b22?style=flat-square&logo=discord&logoColor=58A6FF" alt="Discord Backup" /></a>
+  <a href="https://www.guns.lol/zodi4c"><img src="https://img.shields.io/badge/Portfolio-guns.lol-161b22?style=flat-square&logo=safari&logoColor=58A6FF" alt="guns.lol" /></a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
+## 🇹🇷 Türkçe
+
+<h3 align="center"><img src="assets/icons/about.svg" width="22" align="absmiddle" alt="" /> Hakkımda</h3>
+
+<div align="center">
+
+Performanslı scriptler, Discord botları, oyun otomasyonları ve temiz sistem mimarileri geliştiriyorum.
+
+**Discord Botları** &middot; slash komutları, moderasyon, ticket ve yardımcı sistemler
+
+**FiveM** &middot; framework'ler, oyun sistemleri ve otomasyonlar
+
+**Backend & Araçlar** &middot; masaüstü yardımcı araçları, web uygulamaları ve sistem programlama
+
+Bana sorabileceklerin: `Python` &middot; `Lua` &middot; `FiveM` &middot; `Discord Botları` &middot; `Bot Otomasyonu`
+
+Türkiye merkezli geliştirici
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+<h3 align="center"><img src="assets/icons/status.svg" width="22" align="absmiddle" alt="" /> Canlı Durum</h3>
+
+<div align="center">
+  <a href="https://discord.com/users/1403455771563528252">
+    <img width="49%" src="https://lanyard.cnrad.dev/api/1403455771563528252?theme=dark&bg=0d1117&borderRadius=12&idleMessage=Probably%20coding" alt="Discord Ana Hesap Durumu" />
+  </a>
+  <a href="https://discord.com/users/1350881372104949903">
+    <img width="49%" src="https://lanyard.cnrad.dev/api/1350881372104949903?theme=dark&bg=0d1117&borderRadius=12&idleMessage=Probably%20coding" alt="Discord Yedek Hesap Durumu" />
   </a>
 
-  <br/><br/>
+  <br/>
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
-  <a href="https://github.com/zodi4ctvn/zodi4c-storage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zodi4ctvn&repo=zodi4c-storage&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="zodi4c-storage" />
-  </a>
+<h3 align="center"><img src="assets/icons/tools.svg" width="22" align="absmiddle" alt="" /> Teknoloji Yığını</h3>
+
+<div align="center">
+
+<code>DİLLER</code>
+<br/>
+<img src="https://skillicons.dev/icons?i=py,lua,js&theme=dark" alt="Diller" />
+
+<br/>
+
+<code>BACKEND &amp; VERİ</code>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,discordjs,mysql&theme=dark" alt="Backend ve veri" />
+
+<br/>
+
+<code>WEB</code>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web" />
+
+<br/>
+
+<code>ARAÇLAR &amp; İŞ AKIŞI</code>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,discord&theme=dark" alt="Araçlar ve iş akışı" />
+
+</div>
+
+<h4 align="center"><img src="assets/icons/frameworks.svg" width="20" align="absmiddle" alt="" /> Çatılar &amp; Platformlar</h4>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/discord.py-161b22?style=flat-square&logo=discord&logoColor=58A6FF" alt="discord.py" />
+  <img src="https://img.shields.io/badge/FiveM-161b22?style=flat-square&logo=fivem&logoColor=58A6FF" alt="FiveM" />
+  <img src="https://img.shields.io/badge/QBCore-161b22?style=flat-square&logoColor=58A6FF" alt="QBCore" />
+  <img src="https://img.shields.io/badge/Qbox-161b22?style=flat-square&logoColor=58A6FF" alt="Qbox" />
+</div>
+
+<h4 align="center"><img src="assets/icons/ai.svg" width="20" align="absmiddle" alt="" /> Yapay Zeka Araçları</h4>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Gemini-161b22?style=flat-square&logo=googlegemini&logoColor=58A6FF" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Antigravity-161b22?style=flat-square&logo=google&logoColor=58A6FF" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Claude-161b22?style=flat-square&logo=anthropic&logoColor=58A6FF" alt="Claude" />
+  <img src="https://img.shields.io/badge/Cursor-161b22?style=flat-square&logo=cursor&logoColor=58A6FF" alt="Cursor" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-161b22?style=flat-square&logo=githubcopilot&logoColor=58A6FF" alt="GitHub Copilot" />
 
   <br/><br/>
   <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
-<h2 align="center"><img src="assets/icons/connect.svg" width="22" align="absmiddle" alt="" /> Connect With Me</h2>
+<h3 align="center"><img src="assets/icons/stats.svg" width="22" align="absmiddle" alt="" /> GitHub İstatistikleri</h3>
 
 <div align="center">
-  <a href="https://discord.com/users/1350881372104949903"><img src="https://img.shields.io/badge/Discord-161b22?style=flat-square&logo=discord&logoColor=58A6FF" alt="Discord" /></a>
-  <a href="https://www.guns.lol/zodi4c"><img src="https://img.shields.io/badge/Portfolio%20guns.lol-161b22?style=flat-square&logo=safari&logoColor=58A6FF" alt="guns.lol" /></a>
+  <img width="495" src="https://streak-stats.demolab.com?user=zodi4ctvn&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Seri" />
+  <br/>
+  <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodi4ctvn&layout=compact&theme=tokyonight&hide_border=true&card_width=495&cache_seconds=1800" alt="En Çok Kullanılan Diller" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zodi4ctvn/zodi4ctvn/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zodi4ctvn/zodi4ctvn/output/github-snake.svg" />
+    <img width="90%" src="https://raw.githubusercontent.com/zodi4ctvn/zodi4ctvn/output/github-snake-dark.svg" alt="GitHub katkı yılan animasyonu" />
+  </picture>
+
+  <br/><br/>
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
+<h3 align="center"><img src="assets/icons/projects.svg" width="22" align="absmiddle" alt="" /> Öne Çıkan Projeler</h3>
+
+<div align="center">
+
+| Proje | Teknoloji | Açıklama |
+| :--- | :---: | :--- |
+| [**coc-bb-autoattack**](https://github.com/zodi4ctvn/coc-bb-autoattack) (`Clash Titan 2.0`) | `Python` | Görüntü işleme ve akıllı rutinlerle Clash of Clans İnşaatçı Üssü otomatik saldırı botu. |
+| [**discord-dm-cleaner**](https://github.com/zodi4ctvn/discord-dm-cleaner) | `Python` | Discord özel mesaj (DM) geçmişini hızlıca temizleme aracı. |
+| [**discord-server-leaver**](https://github.com/zodi4ctvn/discord-server-leaver) | `Python` | Filtreleme ve güvenlik kontrolleriyle toplu Discord sunucu ayrılma aracı. |
+| [**TikZave**](https://github.com/zodi4ctvn/TikZave) | `Python` | Sade ve hızlı TikTok video indirme / kaydetme aracı. |
+| [**Z4Vibrance**](https://github.com/zodi4ctvn/Z4Vibrance) | `Python` / `WinAPI` | Oyunlar için hafif dijital canlılık (vibrance) ve ekran renk geliştirici. |
+| [**zodi4c-storage**](https://github.com/zodi4ctvn/zodi4c-storage) | `Lua` / `FiveM` | Lua tabanlı FiveM depolama ve sunucu tarafı sistem altyapısı. |
+| [**zodi4ctvn.github.io**](https://zodi4ctvn.github.io) ([Repo](https://github.com/zodi4ctvn/zodi4ctvn.github.io)) | `HTML` `CSS` `JS` | Lanyard Discord durumu, DNA parçacık ağı ve interaktif terminalli kişisel portföy sitesi. |
+
+<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+<h3 align="center"><img src="assets/icons/connect.svg" width="22" align="absmiddle" alt="" /> İletişim</h3>
+
+<div align="center">
+  <a href="https://zodi4ctvn.github.io"><img src="https://img.shields.io/badge/Web%20Sitesi-zodi4ctvn.github.io-161b22?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Web Sitesi" /></a>
+  <a href="https://discord.com/users/1403455771563528252"><img src="https://img.shields.io/badge/Discord-Ana%20Hesap-161b22?style=flat-square&logo=discord&logoColor=58A6FF" alt="Discord Ana Hesap" /></a>
+  <a href="https://discord.com/users/1350881372104949903"><img src="https://img.shields.io/badge/Discord-Yedek%20Hesap-161b22?style=flat-square&logo=discord&logoColor=58A6FF" alt="Discord Yedek Hesap" /></a>
+  <a href="https://www.guns.lol/zodi4c"><img src="https://img.shields.io/badge/Portföy-guns.lol-161b22?style=flat-square&logo=safari&logoColor=58A6FF" alt="guns.lol" /></a>
 </div>
 
 <br/>
