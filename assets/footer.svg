@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="84" viewBox="0 0 1000 84" role="img" aria-labelledby="title desc">
+  <title id="title">Designed to run, built to last</title>
+  <desc id="desc">A thin horizontal rule with a small accent diamond, the tagline and the zodi4c wordmark.</desc>
+
+  <line x1="100" y1="26" x2="452" y2="26" stroke="#2A2C31"/>
+  <line x1="548" y1="26" x2="900" y2="26" stroke="#2A2C31"/>
+  <rect x="495" y="21" width="10" height="10" fill="#C89A4E" transform="rotate(45 500 26)"/>
+
+  <text x="500" y="56" text-anchor="middle" fill="#8A8F98" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="6.5">DESIGNED TO RUN · BUILT TO LAST</text>
+  <text x="500" y="74" text-anchor="middle" fill="#5E636C" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="4.5">ZODI4C</text>
+</svg>

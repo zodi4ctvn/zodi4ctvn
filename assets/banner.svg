@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">zodi4c — Python and Lua developer</title>
+  <desc id="desc">Minimal dark banner with the zodi4c handle, a short role line and the profile URL. No gradients or animation.</desc>
+
+  <rect width="1000" height="260" rx="12" fill="#101113"/>
+  <rect x="0.5" y="0.5" width="999" height="259" rx="11.5" stroke="#24262A"/>
+
+  <text x="56" y="62" fill="#7C828C" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="3.2">FIVEM · DISCORD · AUTOMATION</text>
+
+  <rect x="56" y="92" width="36" height="4" rx="2" fill="#C89A4E"/>
+
+  <text x="53" y="168" fill="#F1F1EE" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="72" font-weight="600" letter-spacing="-2.4">zodi4c</text>
+
+  <text x="56" y="200" fill="#A2A8B1" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" font-weight="400">Python &amp; Lua developer — Discord bots, FiveM systems, automation</text>
+
+  <line x1="56" y1="224" x2="944" y2="224" stroke="#1D1F23"/>
+
+  <text x="56" y="246" fill="#6B717B" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="1.4">github.com/zodi4ctvn</text>
+  <text x="944" y="246" fill="#6B717B" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="1.4" text-anchor="end">TURKEY · 2026</text>
+</svg>
